@@ -1,5 +1,5 @@
 supervisor
-tornado==5.0
+tornado==6.4.1
 requests
 pymysql
 peewee
